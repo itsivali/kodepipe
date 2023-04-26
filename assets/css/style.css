@@ -4689,7 +4689,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   }
 }
 
-.contact-up .c-wapp a .hiring {
+.contact-up .c-wapp a .project {
   width: 50%;
   position: relative;
   display: block;
@@ -4706,12 +4706,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   transition: color 0.5s cubic-bezier(0.77, 0, 0.175, 1);
 }
 
-.v-light .contact-up .c-wapp a .hiring {
+.v-light .contact-up .c-wapp a .project {
   -webkit-text-stroke: 1px #000;
 }
 
 @media only screen and (max-width: 767px) {
-  .contact-up .c-wapp a .hiring {
+  .contact-up .c-wapp a .project {
     display: block;
     text-align: center;
     width: 100%;
@@ -4722,7 +4722,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 @media only screen and (max-width: 400px) {
-  .contact-up .c-wapp a .hiring {
+  .contact-up .c-wapp a .project {
     font-size: 28px;
   }
 }
@@ -4756,11 +4756,11 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   width: 100%;
 }
 
-.contact-up:hover a .hiring {
+.contact-up:hover a .project {
   color: #fff;
 }
 
-.v-light .contact-up:hover a .hiring {
+.v-light .contact-up:hover a .project {
   color: #000;
 }
 
